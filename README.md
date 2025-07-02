@@ -3,25 +3,26 @@ Analyzed restaurant data to uncover insights on ratings, cuisines, and pricing. 
 ### 📊 Sample Visualizations
 
 #### Image 1
-![Image 1](image1.png)
+![Image 1](image%201.png)
 
 #### Image 2
-![Image 2](image2.png)
+![Image 2](image%202.png)
 
 #### Image 3
-![Image 3](image3.png)
+![Image 3](image%203.png)
 
 #### Image 4
-![Image 4](image4.png)
+![Image 4](image%204.png)
 
 #### Image 5
-![Image 5](image5.png)
+![Image 5](image%205.png)
 
 #### Image 6
-![Image 6](image6.png)
+![Image 6](image%206.png)
 
 #### Image 7
-![Image 7](image7.png)
+![Image 7](image%207.png)
 
 #### Image 8
-![Image 8](image8.png)
+![Image 8](image%208.png)
+
