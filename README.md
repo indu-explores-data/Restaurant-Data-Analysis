@@ -1,5 +1,6 @@
 # Restaurant-Data-Analysis
-AnalyConducted an in-depth exploratory analysis of restaurant data to uncover meaningful insights on customer preferences, pricing patterns, and rating behavior. Leveraged Python libraries like Pandas, Seaborn, and Matplotlib to clean, analyze, and visualize the data. Key highlights include identifying top-rated cuisines, evaluating cost distributions across cities, and exploring the impact of online delivery on ratings. The findings offer valuable inputs for business strategies in the food and hospitality sector.
+Conducted an in-depth exploratory analysis of restaurant data to uncover meaningful insights on customer preferences, pricing patterns, and rating behavior. Leveraged Python libraries like Pandas, Seaborn, and Matplotlib to clean, analyze, and visualize the data. Key highlights include identifying top-rated cuisines, evaluating cost distributions across cities, and exploring the impact of online delivery on ratings. The findings offer valuable inputs for business strategies in the food and hospitality sector.
+
 ### 📊 Sample Visualizations
 
 Below are some key visualizations generated during the analysis, highlighting trends in ratings, pricing, delivery options, and city-level comparisons.
