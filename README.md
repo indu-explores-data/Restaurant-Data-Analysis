@@ -73,3 +73,11 @@ Below are some key visualizations generated during the analysis, highlighting tr
 #### Moving Average of Average Cost for Two  
 ![Moving Average of Average Cost for Two](images/image%208.png)
 
+## 📬 Let's Connect
+
+- **LinkedIn:** [Indu R](https://www.linkedin.com/in/indu-r-3a3767170/)
+
+---
+
+> ⭐ If you found this dashboard useful, consider starring the repo and sharing feedback!
+
