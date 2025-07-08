@@ -1,5 +1,49 @@
-# Restaurant-Data-Analysis
-Conducted an in-depth exploratory analysis of restaurant data to uncover meaningful insights on customer preferences, pricing patterns, and rating behavior. Leveraged Python libraries like Pandas, Seaborn, and Matplotlib to clean, analyze, and visualize the data. Key highlights include identifying top-rated cuisines, evaluating cost distributions across cities, and exploring the impact of online delivery on ratings. The findings offer valuable inputs for business strategies in the food and hospitality sector.
+# 🍽️ Restaurant Data Analysis
+
+This project involves end-to-end Exploratory Data Analysis (EDA) of restaurant data to uncover valuable insights into customer preferences, restaurant performance, cuisine trends, and more.
+
+## 📊 Project Overview
+
+The objective of this project is to:
+- Understand the structure and quality of restaurant data
+- Perform detailed data cleaning and preprocessing
+- Explore trends in ratings, location, and cuisine
+- Visualize key business metrics and patterns
+
+## 📁 Dataset
+
+- **Source:** [Kaggle Restaurant Dataset](https://www.kaggle.com/) *(Link not included for copyright compliance)*
+- **Features include:**
+  - Restaurant names
+  - Cuisines served
+  - Aggregate ratings
+  - Locations
+  - Price range
+  - Online delivery status
+  - Votes received
+
+> Note: The dataset is not included in this repository for licensing reasons.
+
+## 🛠️ Technologies Used
+
+- **Python:** Data analysis and manipulation
+- **Pandas & NumPy:** Data preprocessing
+- **Matplotlib & Seaborn:** Data visualization
+- **Jupyter Notebook:** Interactive data exploration
+
+## 📌 Key Insights
+
+- Identified top-rated restaurants and popular cuisines
+- Analyzed how price range affects ratings
+- Examined the correlation between votes and ratings
+- Highlighted the best locations for food businesses
+
+## 📈 Visualizations
+
+- Count plots of cuisines and locations
+- Pie charts showing online delivery availability
+- Box plots and scatter plots for rating trends
+- Heatmaps of correlation between numerical features
 
 ### 📊 Sample Visualizations
 
