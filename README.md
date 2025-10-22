@@ -137,13 +137,12 @@ Follow these steps to set up the project locally and reproduce the analysis:
 
 ## 🔗 Connect with Me
 
-For feedback, collaboration opportunities, or related queries, feel free to reach out via LinkedIn:
+Let’s connect on LinkedIn for project discussions or data-driven collaborations:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/indu-r-3a3767170/)
 
-- ---
+---
 
 ## 🙌 Feedback & Support
 
-If you found this project helpful or interesting, feel free to ⭐ star the repository and share your thoughts. Contributions and suggestions are always welcome!
-
+If you found this project helpful, please ⭐ star the repository and share your thoughts. Suggestions and contributions are always welcome!
