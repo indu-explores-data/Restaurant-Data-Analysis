@@ -108,7 +108,7 @@ Follow these steps to set up the project locally and reproduce the analysis:
    ```
    python -m venv venv
    ```
-  **Windows:**
+   **Windows:**
    ```
    venv\Scripts\activate
    ```
