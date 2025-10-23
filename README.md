@@ -96,7 +96,7 @@ Tracks pricing trends over time using moving averages.
 
 Follow these steps to set up the project locally and reproduce the analysis:
 
-1. **Clone the Repository:**
+1. Clone the Repository:
     ```bash
     git clone https://github.com/indu-explores-data/Restaurant-Data-Analysis.git
     ```
