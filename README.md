@@ -108,22 +108,22 @@ Follow these steps to set up the project locally and reproduce the analysis:
    ```
    python -m venv venv
    ```
-**Windows:**
+ **Windows:**
    ```
    venv\Scripts\activate
    ```
-**Mac/Linux:**
+ **Mac/Linux:**
    ```
    source venv/bin/activate
    ```
 **4. Install Required Libraries:**
-    ```
-    pip install pandas numpy matplotlib seaborn jupyter
-    ```
+   ```
+   pip install pandas numpy matplotlib seaborn jupyter
+   ```
 **5. Launch Jupyter Notebook:**
-    ```
-    jupyter notebook
-    ```
+   ```
+   jupyter notebook
+   ```
 **6. Open *Restaurant_Data_Analysis.ipynb* and run all cells to reproduce the analysis.**
 
 ---
