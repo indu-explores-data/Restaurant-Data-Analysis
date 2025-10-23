@@ -109,13 +109,13 @@ Follow these steps to set up the project locally and reproduce the analysis:
    python -m venv venv
    ```
    **Windows:**
-    ```
-    venv\Scripts\activate
-    ```
+     ```
+     venv\Scripts\activate
+     ```
    **Mac/Linux:**
-    ```
-    source venv/bin/activate
-    ```
+     ```
+     source venv/bin/activate
+     ```
 **4. Install Required Libraries:**
    ```
    pip install pandas numpy matplotlib seaborn jupyter
