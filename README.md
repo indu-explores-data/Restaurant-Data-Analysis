@@ -124,7 +124,7 @@ Follow these steps to set up the project locally and reproduce the analysis:
    ```
    jupyter notebook
    ```
-**6. Open *Restaurant_Data_Analysis.ipynb* and run all cells to reproduce the analysis.**
+**6. Open `Restaurant_Data_Analysis.ipynb` and run all cells to reproduce the analysis.**
 
 ---
 ## ▶️ Usage / How to Run
