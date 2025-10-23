@@ -97,33 +97,33 @@ Tracks pricing trends over time using moving averages.
 Follow these steps to set up the project locally and reproduce the analysis:
 
 **1. Clone the Repository:**
-    ```
-     git clone https://github.com/indu-explores-data/Restaurant-Data-Analysis.git
-    ```
+   ```
+   git clone https://github.com/indu-explores-data/Restaurant-Data-Analysis.git
+   ```
 **2. Navigate to the Project Directory:**
-     ```
-     cd Restaurant-Data-Analysis
-     ```
+   ```
+   cd Restaurant-Data-Analysis
+   ```
 **3. Create and Activate a Virtual Environment (Recommended):**
-     ```
-     python -m venv venv
-     ```
-     **Windows:**
-       ```
-       venv\Scripts\activate
-       ```
-     **Mac/Linux:**
-       ```
-       source venv/bin/activate
-       ```
+   ```
+   python -m venv venv
+   ```
+   **Windows:**
+    ```
+    venv\Scripts\activate
+    ```
+    **Mac/Linux:**
+    ```
+    source venv/bin/activate
+    ```
 **4. Install Required Libraries:**
-     ```
-     pip install pandas numpy matplotlib seaborn jupyter
-     ```
+    ```
+    pip install pandas numpy matplotlib seaborn jupyter
+    ```
 **5. Launch Jupyter Notebook:**
-     ```
-     jupyter notebook
-     ```
+    ```
+    jupyter notebook
+    ```
 **6. Open *Restaurant_Data_Analysis.ipynb* and run all cells to reproduce the analysis.**
 
 ---
