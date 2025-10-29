@@ -75,11 +75,14 @@ Tracks pricing trends over time using moving averages.
 
 ## 🔍 Key Insights & Outcomes
 
-- **Top-rated restaurants** and **popular cuisines** were identified across locations.  
-- **Price range** has a noticeable impact on ratings — moderate pricing tends to attract higher ratings.  
-- **Votes and ratings** show a strong positive relationship, indicating customer engagement drives perception.  
-- **Online delivery availability** significantly influences customer satisfaction.  
-- **High-cost restaurants** cluster in metro cities, showing strong price segmentation.  
+- **Most restaurants** fall in the mid-rating range (3.0–4.0), indicating generally satisfactory but not exceptional experiences.  
+- **Moderately priced restaurants** tend to receive **higher ratings**, showing that value-for-money strongly influences customer perception.  
+- **Votes and ratings** have a **strong positive correlation** — restaurants with higher engagement are typically better rated.  
+- **Online delivery availability** impacts satisfaction; restaurants offering it tend to have **slightly lower ratings**, possibly due to delivery quality issues.  
+- **Table booking** is associated with **higher ratings**, reflecting the importance of structured service and customer experience.  
+- **High-cost restaurants** are concentrated in **metro cities** like **New Delhi, Jakarta, and Colombo**, highlighting market segmentation and luxury dining trends.  
+- **Top cuisines** include **North Indian, Chinese, and Fast Food**, while niche cuisines often show lower ratings.  
+- **Tier 2 cities** have more **low-rated restaurants**, suggesting a gap and opportunity for quality-driven expansion.  
 
 ---
 
@@ -129,7 +132,7 @@ Follow these steps to set up the project locally and reproduce the analysis:
 ---
 ## ▶️ Usage / How to Run
 
-- Open **Restaurant_Data_Analysis.ipynb** in Jupyter Notebook.
+- Open **Restaurant Data Analysis.ipynb** in Jupyter Notebook.
 - Run all cells sequentially to view insights and visualizations.
 - Results and images are available inside the images/ folder.
 
